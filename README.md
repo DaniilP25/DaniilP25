@@ -84,7 +84,7 @@
 ---
 
 8. [**FedyxBot**](https://github.com/DaniilP25/FedyxBot) *(апрель 2025)*  
-   Телеграм-бот на **TypeScript (grammy)**: создание предложек, отправка сообщений в группу и обратно, 3 кнопки под сообщением: заблокировать, разблокировать и ещё что-то  
+   Телеграм-бот на **TypeScript (grammy)**: создание предложек, отправка сообщений в группу и обратно, 3 кнопки под сообщением: заблокировать, разблокировать и удалить  
    ✅ Работает  
 
 ---
@@ -111,85 +111,73 @@ Press **F**! 🪦
 <details>
   <summary>📜 Timeline (EN)</summary>
 
-1. [**CucumberBot**](https://github.com/DaniilP25/CucumberBot) *(May – August 2022)*  
-   Discord bot written in **Python**, my first serious project.  
-   Connected **90 communities** and **3K unique users**.  
-   Helped me gain experience and make new connections 🙌  
-   ⚠️ *Currently not working, needs fixes*  
+1. [**CucumberBot**](https://github.com/DaniilP25/CucumberBot) *(May – August 2022)*
+   Discord bot in **Python**, my first serious project.
+   United **90 communities** and **3K unique users**.
+   Gained experience and connections thanks to it 🙌
+   ⚠️ Not working, needs fixes
 
 ---
 
-2. [**MorseLang**](https://github.com/DaniilP25/MorseLang) *(February 2023)*  
-   A pseudo programming language in **Python**.  
-   Fun project, **works** ✅  
+2. [**MorseLang**](https://github.com/DaniilP25/MorseLang) *(February 2023)*
+   Pseudo-programming language in **Python**.
+   Fun project
+   ✅ Working
 
 ---
 
-3. [**CucumberMsg (old)**](https://github.com/DaniilP25/CucumberMsg-old) *(April 2023)*  
-   An attempt to make my own messenger:  
-   - simple frontend  
-   - backend on **Flask**  
-  ❓ *Not sure if it works*  
+3. [**CucumberMsg (old)**](https://github.com/DaniilP25/CucumberMsg-old) *(April 2023)*
+   Attempt to make my own messenger: simple frontend, backend in **Flask**
+   ⚠️ Don’t know if it works
 
 ---
 
-4. [**DoubleN**](https://github.com/DaniilP25/DoubleN) *(July – August 2023)*  
-   A platformer game on **Unity**:  
-   - menu with music and intro (GIF)  
-   - custom physics (a bit weird 😅)  
-   - just a fun project  
-   Meme project, ✅ **works**  
+4. [**DoubleN**](https://github.com/DaniilP25/DoubleN) *(July – August 2023)*
+   Platformer game in **Unity**: menu with music and intro (GIF), custom physics (a bit weird 😅), purely for fun
+   ✅ Working
 
 ---
 
-5. [**invert**](https://github.com/DaniilP25/invert) *(January 2024)*  
-   A parody of **Geometry Dash**.  
-   - implemented custom physics  
-  ❓ *Not sure if it works*  
+5. [**invert**](https://github.com/DaniilP25/invert) *(January 2024)*
+   Parody of **Geometry Dash**, custom physics implemented
+   ⚠️ Don’t know if it works
 
 ---
 
-6. [**Racing-game**](https://github.com/DaniilP25/Racing-game) *(June 2024)*  
-   A simple retro-style racing game in **Python**.  
-   Made for a class project.  
-   ✅ *Works*  
+6. [**Racing-game**](https://github.com/DaniilP25/Racing-game) *(June 2024)*
+   Simple retro-style racing game in **Python**, made for a course
+   ✅ Working
 
 ---
 
-7. [**Todo-App**](https://github.com/DaniilP25/Todo-App) *(January 2025)*  
-   A minimalist ToDo application.  
-   Made for a class project.  
-   ✅ *Works*  
+7. [**Todo-App**](https://github.com/DaniilP25/Todo-App) *(January 2025)*
+   Minimalist ToDo app, made for a course
+   ✅ Working
 
 ---
 
-8. [**FedyxBot**](https://github.com/DaniilP25/FedyxBot) *(April 2025)*  
-   Telegram bot in **TypeScript (grammy)**:  
-   - suggestion creation  
-   - sending messages between a group and the bot  
-   - 3 buttons under messages: block, unblock, and something else  
-   ✅ *Works*  
+8. [**FedyxBot**](https://github.com/DaniilP25/FedyxBot) *(April 2025)*
+   Telegram bot in **TypeScript (grammy)**: create proposals, send messages to a group and back, 3 buttons under the message: block, unblock, and delete
+   ✅ Working
 
 ---
 
-9. [**ccmbrmsg**](https://github.com/DaniilP25/ccmbrmsg) *(May 2025)*  
-   Another attempt to build my own messenger.  
-   - frontend: **React + Vite**  
-   - backend: **Express.js**  
-   Got stuck on the login panel, but it turned out pretty decent 🙂  
-  ❓ *Does it work?*  
+9. [**ccmbrmsg**](https://github.com/DaniilP25/ccmbrmsg) *(May 2025)*
+   New attempt to create my own messenger: frontend **React + Vite**, backend **Express.js**. Stuck on the login panel, but it turned out decent 🙂
+   ⚠️ Working?
 
 ---
 
-💡 There were also other projects:  
-- Discord bots (pycord, discord.js, etc.)  
-- a music player  
-- many projects that are forever lost…  
-Press **F**! 🪦
+💡 Other projects included:
+
+* Discord bots (pycord, discord.js, etc.)
+* Music player
+* Many projects lost forever…
+  Press **F**! 🪦
 
 ---
 
-If you want to revive any project — feel free to fork it and send pull requests :)  
+If you want to revive any project – please feel free to fork it and send pull requests :)
 Thanks for reading till the end. Have a great day!
 
 </details>
