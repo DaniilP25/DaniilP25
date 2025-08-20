@@ -28,42 +28,14 @@
 
 ---
 
-# Stats 📊
-<table style="width: 100%; table-layout: fixed">
-    <tr>
-        <td style="width: 50%; text-align: center; border: none">
-            <picture>
-                <source
-                    srcset="https://github-readme-stats.vercel.app/api?username=daniilP25&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github"
-                    media="(prefers-color-scheme: dark)"
-                />
-                <source
-                    srcset="https://github-readme-stats.vercel.app/api?username=daniilP25&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github"
-                    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                />
-                <img
-                    src="https://github-readme-stats.vercel.app/api?username=daniilP25&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github"
-                    alt="GitHub Stats"
-                    style="width: 100%; border: none"
-                />
-            </picture>
-        </td>
-        <td style="width: 50%; text-align: center; border: none">
-            <picture>
-                <source
-                    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@Def&layout=compact"
-                    media="(prefers-color-scheme: dark)"
-                />
-                <source
-                    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@Def&layout=compact"
-                    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                />
-                <img
-                    src="https://github-readme-stats.vercel.app/api/wakatime?username=@Def&layout=compact"
-                    alt="Top Languages"
-                    style="width: 100%; border: none"
-                />
-            </picture>
-        </td>
-    </tr>
-</table>
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/759115035594457098?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/759115035594457098)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/759115035594457098)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/759115035594457098)](https://dev.discordprofiles.me/openspotify/759115035594457098)
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=daniilp25&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilp25&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
