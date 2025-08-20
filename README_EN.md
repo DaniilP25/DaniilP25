@@ -106,5 +106,3 @@ Feel free to fork any project or send pull requests :)
 Thanks for reading till the end. Have a great day!
 
 </details>
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=daniilp25.visitor-badge&format=true)
