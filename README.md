@@ -33,10 +33,10 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/759115035594457098)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/759115035594457098)](https://dev.discordprofiles.me/openspotify/759115035594457098)
 
-## 🚀 Мои проекты / My projects
+## 🚀 Мои проекты
 
 <details>
-  <summary>📜 Хронология (RU)</summary>
+  <summary>📜 Хронология</summary>
 
 1. [**CucumberBot**](https://github.com/DaniilP25/CucumberBot) *(май – август 2022)*  
    Дискорд-бот на **Python**, мой первый серьёзный проект.  
