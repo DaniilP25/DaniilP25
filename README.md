@@ -1,30 +1,30 @@
-## Hi there 👋
+## Привет 👋 [IN ENGLISH](README_EN.md)
 
-- 🔭 I’m currently working on **my own strategy game in C#**
-- 🌱 I’m now studying **C# / .NET**
-- 🎯 I plan to study **C / C++ / Unreal Engine / Docker**
-- 💬 Ask me about **game development**
-- 📫 How to reach me: **Discord:** rdefi | **Telegram:** [@pda1n](https://t.me/pda1n)
+- 🔭 Сейчас работаю над **своей стратегической игрой на C#**
+- 🌱 Сейчас изучаю **C# / .NET**
+- 🎯 Планирую изучать **C / C++ / Unreal Engine / Docker**
+- 💬 Можете спрашивать меня о **разработке игр**
+- 📫 Связаться со мной: **Discord:** rdefi | **Telegram:** [@pda1n](https://t.me/pda1n)
 
 ---
 
-# Skills ⚙️
+# Навыки ⚙️
 
-**🟡 Past experience:**
+**🟡 Прошлый опыт:**
 
-![Past Skills](https://skillicons.dev/icons?i=py,ts,bots,nodejs,androidstudio,unity,godot,sqlite,postgres,qt)
+![Прошлые навыки](https://skillicons.dev/icons?i=py,ts,bots,nodejs,androidstudio,unity,godot,sqlite,postgres,qt)
 
-**🟢 Current stack:**
+**🟢 Текущий стек:**
 
-![Current Skills](https://skillicons.dev/icons?i=cs,dotnet)
+![Текущие навыки](https://skillicons.dev/icons?i=cs,dotnet)
 
-**🔵 Next in line:**
+**🔵 Дальнейшие планы:**
 
-![Future Skills](https://skillicons.dev/icons?i=c,cpp,unreal,docker)
+![Будущие навыки](https://skillicons.dev/icons?i=c,cpp,unreal,docker)
 
-**⚪ Tools I use:**
+**⚪ Инструменты, которые я использую:**
 
-![Other](https://skillicons.dev/icons?i=windows,vscode,discord)
+![Прочее](https://skillicons.dev/icons?i=windows,vscode,discord)
 
 ---
 
