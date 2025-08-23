@@ -1,37 +1,13 @@
 ## Привет 👋 [IN ENGLISH](README_EN.md)
 
-- 🔭 Сейчас работаю над **своей стратегической игрой на C#**
-- 🌱 Сейчас изучаю **C# / .NET**
-- 🎯 Планирую изучать **C / C++ / Unreal Engine / Docker**
-- 💬 Можете спрашивать меня о **разработке игр**
-- 📫 Связаться со мной: **Discord:** rdefi | **Telegram:** [@pda1n](https://t.me/pda1n)
+📫 Связаться со мной: **Discord:** rdefi | **Telegram:** [@pda1n](https://t.me/pda1n)
 
 ---
 
 # Навыки ⚙️
-
-**🟡 Прошлый опыт:**
-
-![Прошлые навыки](https://skillicons.dev/icons?i=py,ts,bots,nodejs,androidstudio,unity,godot,sqlite,postgres,qt)
-
-**🟢 Текущий стек:**
-
-![Текущие навыки](https://skillicons.dev/icons?i=cs,dotnet)
-
-**🔵 Дальнейшие планы:**
-
-![Будущие навыки](https://skillicons.dev/icons?i=c,cpp,unreal,docker)
-
-**⚪ Инструменты, которые я использую:**
-
-![Прочее](https://skillicons.dev/icons?i=windows,vscode,discord)
+[![Мои навыки](https://skillicons.dev/icons?i=py,ts,nodejs,cs,unity,godot)](https://skillicons.dev)
 
 ---
-
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/759115035594457098?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/759115035594457098)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/759115035594457098)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/759115035594457098)](https://dev.discordprofiles.me/openspotify/759115035594457098)
 
 ## 🚀 Мои проекты
 
@@ -98,8 +74,7 @@
 💡 Были и другие проекты:  
 - Discord-боты (pycord, discord.js и др.)  
 - музыкальный плеер  
-- много проектов, которые утеряны навсегда…  
-Press **F**! 🪦
+- много проектов, которые утеряны навсегда… Press **F**! 🪦
 
 ---
 
@@ -107,5 +82,3 @@ Press **F**! 🪦
 Спасибо, что дочитали до конца. Хорошего вам дня!
 
 </details>
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=daniilp25.visitor-badge&format=true)
